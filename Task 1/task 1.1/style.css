@@ -1,0 +1,40 @@
+.cl-1 {
+    margin-left: 20px;
+    background-image: url(fon9.jpg);
+    background-color: #c7b39b;
+    /* Цвет фона */
+}
+
+.cl {
+    margin-left: 50px;
+    width: 550px;
+    color: #F0FFFF;
+}
+
+ul.hr {
+    /* Обнуляем значение отступов */
+    padding: 4px;
+    margin-left: 15px;
+    /* Значение полей */
+}
+
+ul.hr li {
+    display: inline;
+    /* Отображать как строчный элемент */
+    margin-right: 15px;
+    padding: 3px;
+    color: #F0FFFF;
+}
+
+#fotter {
+    position: fixed;
+    /* Фиксированное положение */
+    left: 0;
+    bottom: 0;
+    /* Левый нижний угол */
+    padding: 10px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    /* Цвет фона */
+    color: #fff;
+}
