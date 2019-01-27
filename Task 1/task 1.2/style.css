@@ -1,0 +1,100 @@
+ul.hr {
+  padding: 4px;
+  margin-right: 25px;
+  /* Значение полей */
+}
+
+ul.hr li {
+  float: right;
+  display: inline;
+  /* Отображать как строчный элемент */
+  margin-right: 25px;
+  padding: 3px;
+  color: black;
+  font-size: 120%;
+}
+.cl1 {
+  margin-top: 80px;
+  background-image: url(m2.jpg);
+  background-repeat: no-repeat;
+  margin: 0;
+  background-color: #680c63;
+  height: 552px;
+  width: 1352px;
+}
+
+.pr {
+  display: block;
+  color: floralwhite;
+  text-align: left;
+  margin-left: 200px;
+  margin-top: 50px;
+  float: right;
+}
+.pr p {
+  font-size: 150%;
+  color: #ffffff;
+}
+.pr h1 {
+  color: #ffffff;
+}
+.f1 {
+  font-size: 200%;
+  text-align: center;
+}
+.r1 {
+  display: block;
+  background-image: url(r1.jpg);
+  background-repeat: no-repeat;
+}
+
+.rr2 {
+  text-align: center;
+}
+
+figcaption {
+  color: blue;
+}
+
+figure {
+  width: 250px;
+  /* Ширина */
+  height: 250px;
+  /* Высота */
+  display: inline-block;
+  /* Блочный элемент */
+  float: left;
+  margin: 50px 50px 10px 120px;
+  text-align: center;
+}
+.Item {
+  display: inline-block;
+  margin-left: 200px;
+  margin-top: 80px;
+}
+.btn {
+  background: navy;
+  color: white;
+  /* Белые буквы */
+  font-size: 20pt;
+  border: none;
+}
+footer {
+  border: black;
+  width: 100%;
+  height: auto;
+
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 25px;
+}
+
+footer hr {
+  color: grey;
+  height: 2px;
+  margin-bottom: 20px;
+}
+
+footer p {
+  color: black;
+}
